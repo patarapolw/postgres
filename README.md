@@ -11,6 +11,6 @@ Or
 sudo -u postgres psql
 ```
 
-## pgadmin4 >= 4.0 for Arch
+## pgadmin4 >= 5.0 for Arch
 
 This is moved to <https://github.com/patarapolw/pgadmin4-arch/releases>.
